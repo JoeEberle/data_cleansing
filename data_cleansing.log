@@ -1,0 +1,21 @@
+2023-09-22 15:26:06,792 - INFO - START data_cleansing =============================================
+2023-09-22 15:26:06,792 - INFO - START data_cleansing Start Time = 2023-09-22 15:26:06
+2023-09-22 15:26:06,792 - INFO - data_cleansing Step 0 - Initialize the configuration file parser
+2023-09-22 15:26:06,814 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-09-22 15:26:06,814 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-09-22 15:26:12,298 - INFO - Process data_cleansing Step 0 - Initializing and starting Process.
+2023-09-22 15:26:44,994 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-22 15:26:45,389 - INFO - PERFORMANCE data_cleansing The total process duration was:38.60
+2023-09-22 15:26:45,389 - INFO - PERFORMANCE data_cleansing Stop Time = 2023-09-22 15:26:45
+2023-09-22 15:26:45,389 - INFO - PERFORMANCE data_cleansing Low process duration less than 3 minutes:38.60
+2023-09-22 15:26:45,389 - INFO - PERFORMANCE data_cleansing Performance optimization is optional
+2023-09-22 15:26:45,389 - INFO - END data_cleansing =============================================
+2023-09-23 00:16:09,247 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-23 00:24:44,903 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-23 00:28:29,352 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-23 00:37:19,560 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-23 00:46:24,776 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-23 00:47:28,704 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-23 00:57:14,438 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-23 01:20:11,872 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-23 01:23:28,081 - INFO - data_cleansing - Step 1 - Load ANY data set for which to run discovery or data profiling
