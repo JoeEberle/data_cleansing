@@ -1,4 +1,4 @@
-# Data Cleansing - ProducesClean and consistent data!!! 
+# Data Cleansing - Produces Clean and consistent data !!! 
 
 ![Code Logo](code.png)
 
