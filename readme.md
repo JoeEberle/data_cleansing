@@ -1,12 +1,12 @@
 
-# Data Cleansing - Solution for Data Cleansing
-Solution for Data Cleansing
+# Data Cleansing - A set of utilities to easily claens and improve your data
+A set of utilities to easily claens and improve your data
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Data Cleansing** - an example for your projects
 
-Solution for Data Cleansing
+A set of utilities to easily claens and improve your data
 
 ![Image image_filename](sample.png)
 
