@@ -1,12 +1,12 @@
 
-# Data Cleansing - A set of utilities to easily claens and improve your data
-A set of utilities to easily claens and improve your data
+# Data Cleansing - A set of utilities to easily cleans and improve your data
+A set of utilities to easily cleans and improve your data
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Data Cleansing** - an example for your projects
 
-A set of utilities to easily claens and improve your data
+A set of utilities to easily cleans and improve your data
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Data Cleansing** solution repository, follow these ste
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](Data Profiling.png)  <br>
+    ## Deliverables or Figures![additional_image](Data Profiling.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
