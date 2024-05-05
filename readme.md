@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Data Cleansing - A set of utilities to easily cleans and improve your data
 A set of utilities to easily cleans and improve your data
 
@@ -9,8 +11,6 @@ Welcome to the solution **Data Cleansing** - an example for your projects
 A set of utilities to easily cleans and improve your data
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
