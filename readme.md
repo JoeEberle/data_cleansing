@@ -48,5 +48,5 @@ To get started with the **Data Cleansing** solution repository, follow these ste
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](Data Profiling.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](Data Profiling.png)  <br>
     
