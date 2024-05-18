@@ -36,7 +36,7 @@ To get started with the **Data Cleansing** solution repository, follow these ste
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](Data Profiling.png)  <br>
+ ![additional_image](cleaning_data.png)  <br>![additional_image](Data Profiling.png)  <br>
     
 
 ## Github    
