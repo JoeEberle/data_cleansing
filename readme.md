@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Data Cleansing - A set of utilities to easily cleans and improve your data![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Data Cleansing 
+    ## A set of utilities to easily cleans and improve your data
+    ![Image image_filename](code.png)
 Welcome to the solution **Data Cleansing** - an example for your projects
 
 A set of utilities to easily cleans and improve your data
@@ -12,12 +15,15 @@ To get started with the **Data Cleansing** solution repository, follow these ste
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
