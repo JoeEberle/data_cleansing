@@ -51,13 +51,3 @@ To get started with the **Data Cleansing** solution repository, follow these ste
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](cleaning_data.png)  <br>![additional_image](Data Profiling.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
